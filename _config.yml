@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mohrez / About Me"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Mohammad Reza Sheikh"
   pronouns         : # example: "she/her"  
-  bio              : "Brain Computer Interface Researcher"
+  bio              : "Grad RA & BCI Researcher."
   location         : "Earth"
   employer         : #
   uri              : # URL
