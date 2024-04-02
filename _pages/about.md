@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Mohammad Reza Sheikh"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Mohammad Reza, an AI enthusiast fueled by a fascination with the human brain. My journey began with a Bachelor's in Software Engineering, where I honed my skills in Artificial Intelligence. During this time, I wasn't just learning, I was building! I founded Giftak, a startup in the game services industry, demonstrating my passion for applying AI in real-world projects.
+Hi, I'm Mohammad Reza, an AI enthusiast fueled by a fascination with the human brain. My journey began with a Bachelor's in Software Engineering, where I honed my skills in Artificial Intelligence. During this time, I wasn't just learning, I was building! I founded Giftak, a startup in the game services industry, demonstrating my passion for applying AI in real-world projects.
 
 Now, I'm pursuing a Master's degree in Artificial Intelligence, further propelling me towards the frontiers of this dynamic field. As a graduate research assistant, I'm actively contributing to advancements in Brain-Computer Interfaces (BCI). My current research focuses on analyzing EEG signals to understand brain activity. I leverage techniques like multi-layer convolutional neural networks to integrate temporal and spectral features, and wavelet transforms for spectro-temporal analysis. Additionally, I employ wavelet and blind source separation techniques to dissect the structure and temporal changes in brain activity across different regions and frequencies.  This research is particularly exciting as it has the potential to improve diagnoses and develop new neuroimaging applications.
 
