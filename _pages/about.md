@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Biography
+
 
 I am a Master’s student in Artificial Intelligence, specializing in Brain-Computer Interfaces and Machine Learning.
 
