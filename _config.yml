@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cropped-image.png"
   name             : "Mohammad Reza Sheikh"
   pronouns         : # example: "she/her"  
   bio              : "Grad RA & BCI Researcher."
