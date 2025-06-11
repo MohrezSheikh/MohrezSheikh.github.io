@@ -8,5 +8,6 @@ permalink: /cv/
   src="{{ '/assets/MohrezSheikhResume.pdf' | relative_url }}"
   type="application/pdf"
   width="100%"
-  height="800px"
+  height="600px"
+  style="border:1px solid #ddd; margin-bottom:2rem;"
 />
