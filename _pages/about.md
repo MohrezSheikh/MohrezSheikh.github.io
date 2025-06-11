@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-<blockquote class="landing-quote" style="text-align:center; margin:2rem 0;">
-  <p>Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?</p>
-  <footer>— <cite>John Archibald Wheeler</cite></footer>
+<blockquote class="landing-quote" style="margin:4rem 0; text-align:center; font-style:italic;">
+  “Behind it all is surely an idea so simple, so beautiful…”
+  <footer>— John Archibald Wheeler</footer>
 </blockquote>
 
-
-I am a Master’s student in Artificial Intelligence, specializing in Brain-Computer Interfaces and Machine Learning.
-
-My research interests include analyzing EEG signals to advance brain activity understanding, with a dedication to improving diagnostics and neuroimaging through BCI technology. I am open to connecting with fellow researchers and professionals to collaborate on innovative projects in this field.
-
+<section id="about-me" style="margin-bottom:4rem;">
+  <h2>About Me</h2>
+  <p>I am a Master’s student in Artificial Intelligence, specializing in Brain-Computer Interfaces and Machine Learning.</p>
+  <p>My research interests include analyzing EEG signals to advance brain activity understanding, with a dedication to improving diagnostics and neuroimaging through BCI technology. I am open to connecting with fellow researchers and professionals to collaborate on innovative projects in this field.</p>
+</section>
