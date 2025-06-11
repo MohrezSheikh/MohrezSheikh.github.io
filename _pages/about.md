@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 
+<blockquote class="landing-quote" style="text-align:center; margin:2rem 0;">
+  <p>Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?</p>
+  <footer>— <cite>John Archibald Wheeler</cite></footer>
+</blockquote>
 
 
 I am a Master’s student in Artificial Intelligence, specializing in Brain-Computer Interfaces and Machine Learning.
