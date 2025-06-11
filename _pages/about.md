@@ -9,7 +9,7 @@ redirect_from:
 
 
 <blockquote class="landing-quote" style="margin:4rem 0; text-align:center; font-style:italic;">
-  “Behind it all is surely an idea so simple, so beautiful…”
+  “Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise?”
   <footer>— John Archibald Wheeler</footer>
 </blockquote>
 
